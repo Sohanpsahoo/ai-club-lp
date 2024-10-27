@@ -1,6 +1,6 @@
 AI-Club Landing page
 
-some screenshots 
+Some screenshots of the landing page created by me:
 
 ![image](https://github.com/user-attachments/assets/4a17ac5f-5eb1-4892-9d67-5baea39d9537)
 ![image](https://github.com/user-attachments/assets/e6604dfa-18e1-4d5a-80d5-8c8a3290a438)
