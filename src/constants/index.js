@@ -323,7 +323,7 @@ export const socials = [
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/aiclub.vitb",
   },
   {
     id: "3",
